@@ -110,3 +110,6 @@
 [submodule "vendors/cypress/MTB/libraries/kv-store"]
 	path = vendors/cypress/MTB/libraries/kv-store
 	url = https://github.com/cypresssemiconductorco/kv-store.git
+[submodule "iec61499"]
+	path = iec61499
+	url = https://github.com/rossonet/Iec61499-runtime.git
